@@ -1,4 +1,4 @@
-## Heroku + private_pub ##
+## Standalone private_pub for your own server ##
 
 ### Background ###
 
